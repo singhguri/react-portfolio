@@ -189,12 +189,12 @@ export const projects = [
   {
     name: "lorem ipsum",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    github: "https://github.com/1hanzla100",
+    github: "https://github.com/singhguri",
   },
   {
     name: "lorem ipsum",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    github: "https://github.com/1hanzla100",
+    github: "https://github.com/singhguri",
     link: "https://example.com",
   },
 ];
@@ -203,7 +203,7 @@ export const feedbacks = [
   {
     name: "Hassan Mehmood",
     feedback:
-      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Gurpreet Singh has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Gurpreet web developer services for u.",
   },
   {
     name: "Maheen Altaf",

@@ -14,7 +14,7 @@ const GithubProfileCard = dynamic(() =>
 import { openSource } from "../portfolio";
 import SEO from "../components/SEO";
 
-import { data } from "../data";
+import { data as GithuData } from "../data";
 
 export default function Home({ githubProfileData }) {
   return (
@@ -24,16 +24,16 @@ export default function Home({ githubProfileData }) {
           title: "Gurpreet Singh",
           description: "A passionate Full Stack Web Developer.",
           image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-          url: "https://developer-portfolio-1hanzla100.vercel.app",
+          url: "https://developer-portfolio-singhguri.vercel.app",
           keywords: [
-            "Hanzla",
+            "Gurpreet",
             "Gurpreet Singh",
             "@singhguri",
             "preeet_saab",
             "classysingh.666",
             "Portfolio",
-            "Hanzla Portfolio ",
-            "Gurpreet Singh Portfolio",
+            "Gurpreet's Portfolio ",
+            "Gurpreet Singh's Portfolio",
             "web developer",
             "full stack",
             "full stack web developer",
@@ -68,7 +68,8 @@ Home.prototype = {
 };
 
 export async function getStaticProps(_) {
-  const githubProfileData = null;
+  // console.log(.bio);
+  const githubProfileData = GithuData;
   //   await fetch(
   //     `https://api.github.com/users/${openSource.githubUserName}`
   //   ).then((res) => res.json());

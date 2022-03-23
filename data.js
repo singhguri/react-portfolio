@@ -21,7 +21,7 @@ export const data = {
   name: "Gurpreet Singh",
   company: null,
   blog: "",
-  location: null,
+  location: "Chandigarh",
   email: null,
   hireable: null,
   bio: "In a World Full of People Craving for materialistic things ... I am searching for something to fulfill my hunger for knowledge.",
