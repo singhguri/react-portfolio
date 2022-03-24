@@ -5,7 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Gurpreet",
   description:
     "A passionate Full Stack Web Developer having an experience of building Web applications with C#.NET / Angular / JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks.",
-  resumeLink: "",
+  resumeLink: "/Gurpreet's Resume 2022.pdf",
 };
 
 export const openSource = {
@@ -16,7 +16,7 @@ export const contact = {};
 
 export const socialLinks = {
   facebook: "",
-  instagram: "",
+  instagram: "https://instagram.com/preeet_saab",
   twitter: "",
   github: "https://github.com/singhguri",
   linkedin: "",
@@ -109,16 +109,44 @@ export const skillsSection = {
 
 export const SkillBars = [
   {
-    Stack: "Frontend/Design", //Insert stack or technology you have experience in
-    progressPercentage: "90", //Insert relative proficiency in percentage
+    Stack: "HTML/CSS", //Insert stack or technology you have experience in
+    progressPercentage: "60", //Insert relative proficiency in percentage
   },
   {
-    Stack: "Backend",
+    Stack: "JavaScript",
+    progressPercentage: "80",
+  },
+  {
+    Stack: "Node.js",
     progressPercentage: "70",
   },
   {
-    Stack: "Programming",
+    Stack: "Angular",
     progressPercentage: "60",
+  },
+  {
+    Stack: "Typescript",
+    progressPercentage: "60",
+  },
+  {
+    Stack: "C#",
+    progressPercentage: "90",
+  },
+  {
+    Stack: "python",
+    progressPercentage: "60",
+  },
+  {
+    Stack: "mongoDB",
+    progressPercentage: "60",
+  },
+  {
+    Stack: "SQL Server",
+    progressPercentage: "80",
+  },
+  {
+    Stack: "GIT",
+    progressPercentage: "80",
   },
 ];
 
@@ -200,14 +228,14 @@ export const projects = [
 ];
 
 export const feedbacks = [
-  {
-    name: "Hassan Mehmood",
-    feedback:
-      "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Gurpreet Singh has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Gurpreet web developer services for u.",
-  },
-  {
-    name: "Maheen Altaf",
-    feedback:
-      "the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-  },
+  // {
+  //   name: "Hassan Mehmood",
+  //   feedback:
+  //     "We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Gurpreet Singh has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose Gurpreet web developer services for u.",
+  // },
+  // {
+  //   name: "Maheen Altaf",
+  //   feedback:
+  //     "the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+  // },
 ];
