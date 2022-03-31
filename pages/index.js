@@ -23,7 +23,6 @@ export default function Home({ githubProfileData }) {
         data={{
           title: "Gurpreet Singh",
           description: "A passionate Full Stack Web Developer.",
-          image: `${githubProfileData.avatar_url}`,
           url: "https://stirring-tarsier-759195.netlify.app",
           keywords: [
             "Gurpreet",
