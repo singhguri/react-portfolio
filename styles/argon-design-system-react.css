@@ -2781,8 +2781,8 @@ fieldset:disabled a.btn {
 	box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 .btn-white:hover {
-	color: #212529;
-	background-color: #ececec;
+	color: #fff;
+	background-color: #172b4d;
 	border-color: #e6e6e6;
 }
 .btn-white:focus,

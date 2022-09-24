@@ -123,20 +123,20 @@ export const SkillBars = [
 ];
 
 export const educationInfo = [
+  // {
+  //   schoolName: "Harvard University",
+  //   subHeader: "Master of Science in Computer Science",
+  //   duration: "September 2017 - April 2019",
+  //   desc: "Participated in the research of XXX and published 3 papers.",
+  //   descBullets: [
+  //     "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+  //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  //   ],
+  // },
   {
-    schoolName: "Harvard University",
-    subHeader: "Master of Science in Computer Science",
-    duration: "September 2017 - April 2019",
-    desc: "Participated in the research of XXX and published 3 papers.",
-    descBullets: [
-      "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    ],
-  },
-  {
-    schoolName: "Harvard",
-    subHeader: "Master of Science in Computer Science",
-    duration: "September 2017 - April 2019",
+    schoolName: "University of Windsor",
+    subHeader: "Masters in Applied Computing",
+    duration: "January 2023 - September 2025",
     desc: "Participated in the research of XXX and published 3 papers.",
     descBullets: [
       "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
@@ -144,20 +144,30 @@ export const educationInfo = [
     ],
   },
   {
-    schoolName: "Stanford University",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2013 - April 2017",
+    schoolName: "Chandigarh Group of Colleges, Landran",
+    subHeader: "Bachelor of Technology in Computer Science",
+    duration: "August 2017 - May 2020",
     desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
     descBullets: ["Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit"],
+  },
+  {
+    schoolName: "ISTC-CSIO",
+    subHeader: "3 Year Diploma in Mechanical Engineering",
+    duration: "August 2014 - May 2017",
+    desc: "Participated in the research of XXX and published 3 papers.",
+    descBullets: [
+      "Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    ],
   },
 ];
 
 export const experience = [
   {
-    role: "Software Engineer",
-    company: "Google",
+    role: "Senior Software Developer",
+    company: "Arethos Ventures Pvt. Lte.",
     companylogo: "/img/icons/common/google.svg",
-    date: "June 2018 – Present",
+    date: "June 2018 - Present",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     descBullets: [
       "Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -168,14 +178,14 @@ export const experience = [
     role: "Front-End Developer",
     company: "Github",
     companylogo: "/img/icons/common/github.svg",
-    date: "May 2017 – May 2018",
+    date: "May 2017 - May 2018",
     desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     role: "Software Engineer Intern",
     company: "Airbnb",
     companylogo: "/img/icons/common/airbnbLogo.png",
-    date: "Jan 2015 – Sep 2015",
+    date: "Jan 2015 - Sep 2015",
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
 ];

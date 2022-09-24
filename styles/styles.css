@@ -1,3 +1,9 @@
-body>div:first-child {
-    overflow-x: hidden;
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.btn-white:hover {
+  color: #fff !important;
+  background-color: #172b4d !important;
+  border-color: #172b4d !important;
 }
